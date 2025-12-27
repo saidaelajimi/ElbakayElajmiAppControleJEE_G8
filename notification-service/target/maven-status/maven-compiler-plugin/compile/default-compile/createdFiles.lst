@@ -1,0 +1,5 @@
+net\elbakay\notification\NotificationApplication.class
+net\elbakay\notification\service\EmailService.class
+net\elbakay\notification\service\KafkaConsumerService.class
+net\elbakay\notification\dto\TaskDTO.class
+net\elbakay\notification\dto\TaskEvent.class
